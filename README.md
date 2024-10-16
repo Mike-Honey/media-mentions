@@ -4,7 +4,7 @@ This project analyses a collection of PDF files which are the "Media Mentions" o
 
 I haven't put in much effort to categorise the pieces, I just use a standardised file name to capture the media source, publication date and media title.  
 
-The tool used is [Power BI](https://powerbi.microsoft.com/).
+The tool used is [Power BI](https://powerbi.microsoft.com/). This is an interactive data visualisation tool, that allows interactive filtering and exploration of the data.
 
 I upload the PDF file for each new piece into the pdf-files sub-directory here in GitHub, and the Power BI logic constructs a URL link to that file. The GitHub project settings I have the **Pages / Build and deployment / Branch** set to: **main /root**, which publishes updates to https://mike-honey.github.io/ where they can be opened cleanly by any browser.
 
@@ -19,3 +19,9 @@ I upload the PDF file for each new piece into the pdf-files sub-directory here i
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiOTgzNjM5NzctN2VmZS00MjQ5LWE0ZTAtNDNhNDJkNWViMTdlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=2205fd94e6569553690d)
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/media-mentions/raw/main/media-mentions-word-cloud.png)](https://app.powerbi.com/view?r=eyJrIjoiOTgzNjM5NzctN2VmZS00MjQ5LWE0ZTAtNDNhNDJkNWViMTdlIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=2205fd94e6569553690d)
+
+## 🤝 Support
+
+Contributions, issues, feature requests and sponsorship are all welcome!
+
+Give a ⭐️ if you like this project!

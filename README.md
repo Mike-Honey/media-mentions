@@ -1,4 +1,4 @@
-# media-mentions
+# Media Mentions
 
 This project analyses a collection of PDF files which are the "Media Mentions" of my work. I try to only select pieces which are from outlets that meet the definition of ["Mass Media"](https://en.wikipedia.org/wiki/Mass_media), but of course such definitions are subjective.
 

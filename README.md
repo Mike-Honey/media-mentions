@@ -1,6 +1,6 @@
 # Media Mentions
 
-This project analyses a collection of PDF files which are the "Media Mentions" of my work. I try to only select pieces which are from outlets that meet the definition of ["Mass Media"](https://en.wikipedia.org/wiki/Mass_media), but of course such definitions are subjective.
+This project analyses a collection of PDF files which are the "Media Mentions" of my work. I try to only select pieces which are from outlets that meet the definition of ["Mass Media"](https://en.wikipedia.org/wiki/Mass_media) or [Academic Journals](https://en.wikipedia.org/wiki/Academic_journal), but of course such definitions are subjective.
 
 I haven't put in much effort to categorise the pieces, I just use a standardised file name to capture the media source, publication date and media title.  
 
